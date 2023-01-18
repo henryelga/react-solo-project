@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    background-color: #23252C;
+}
+
+.main{
+    margin: 2% auto;
+    height: 500px;
+    width: 317px;
+    background-color: #1A1B21;
+    border-radius: 10px;
+}
+
+.main>img{
+    width: 317px;
+    border-radius: 10px 10px 0px 0px;
+}
